@@ -13,8 +13,8 @@ const Home: React.FC = () => {
       className=" max-w-4xl mx-auto flex flex-col items-center p-4 backdrop-blur-3xl bg" 
     >
       <h1 className="text-center mb-24 leading-none">
-        <span className="block text-9xl font-bold font-didot tracking-wide">l.a.c.</span>
-        <span className="block text-sm font-sans tracking-widest -mt-1">A T E L I E R</span>
+        <span className="block ~text-6xl/9xl font-bold font-didot tracking-wide">l.a.c.</span>
+        <span className="block text-sm font-sans tracking-widest -mt-1">ATELIER</span>
       </h1>
       
       <div className="w-full mb-8 border-white border-2">
@@ -37,7 +37,6 @@ const Home: React.FC = () => {
 
     <Services />
     {/* <BioPure /> */}
-    <PosterLime />
     <PosterLime />
     </>
   );
