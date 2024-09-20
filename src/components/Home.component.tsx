@@ -26,9 +26,9 @@ const Home: React.FC = () => {
       </div>
       
       <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-6 font-didot">
-        {/* <a href="#process" className="text-base hover:underline">Manicures & Pedicures</a>
+        <a href="#process" className="text-base hover:underline">Manicures & Pedicures</a>
         <a href="#process" className="text-base hover:underline">Body Treatments</a>
-        <a href="#shop" className="text-base hover:underline">Shop JessicaCosmetics.ro</a> */}
+        <a href="#shop" className="text-base hover:underline">Shop JessicaCosmetics.ro</a>
         <button className="bg-black text-white text-base hover:underline px-4 py-2 tracking-widest">Book Appointment</button>
       </div>
     </div>
