@@ -4,7 +4,7 @@ import limePoster from '../assets/limePoster.jpg';
 const PosterLime:  React.FC = () =>{
     return (
         <>
-        <section className='bg-cover  bg-no-repeat pt-4' >
+        <section className='bg-cover  bg-no-repeat pt-4 bg-[#bfe720] sm:bg-white' >
         {/* // style={{ backgroundImage: `url(${BNY2})` }} */}
         {/* bg-[#bfe720] */}
         <div 
